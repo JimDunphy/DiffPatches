@@ -122,6 +122,3 @@ Ensure they are on the system `PATH` before running.
 4. Review the commit-patch (`--create-commit-patch`) in Git or a code-review tool before promoting to production.
 
 ---
-
-*Maintainer: your-name • Last updated: 2025-06-26*
-
